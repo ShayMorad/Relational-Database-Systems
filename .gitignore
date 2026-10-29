@@ -1,0 +1,12 @@
+# Local input and generated CSV data
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
